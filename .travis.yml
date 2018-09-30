@@ -42,12 +42,6 @@ gemfile:
   - $REDMINE_PATH/Gemfile
 
 env:
-  - REDMINE_VER=3.2.8 DB=mysql
-  - REDMINE_VER=3.3.5 DB=mysql
-  - REDMINE_VER=3.4.3 DB=mysql
-  - REDMINE_VER=3.2.8 DB=postgresql
-  - REDMINE_VER=3.3.5 DB=postgresql
-  - REDMINE_VER=3.4.3 DB=postgresql
   - REDMINE_VER=master DB=mysql
   - REDMINE_VER=master DB=postgresql
 
